@@ -23,4 +23,4 @@ Based on the result, we find the recycle is the key feature of label. And in the
 * `CW1.ipynb`: Case-1 jupter notebook (include of data visualization)
 * `CW2.ipynb`: Case-2 jupter notebook (include of data visualization)
 
-## For secret issues, I don't provide origenal data online.
+### For secret issues, I don't provide origenal data online.
