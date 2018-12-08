@@ -3,8 +3,8 @@
 The control wafer(CW) is a important subject of the cost in the semiconductor. Over the years, reclaim wafer (recycle of the CW) has been replace the new wafer for cost reduction. But there are many factor that affect the recycle successful rate. Engineers spend a lot of time to analy failure reasons. This study proposes the application of machine learning for CW recycle fail factor classification. Used EDA, statistical tools, machine learning modeling algorithms and model performance tools for creating a backend model to estimate control wafer fail pattern.
 
 ## Data Description
-* Forder `Input`: CW fail rate data. 
-* Forder `Func`: Machine learning model & parameters
+* Forder of `Input`: CW fail rate data. 
+* Forder of `Func`: Machine learning model & parameters
 * `CW1.py`: Case-1 analysis (Particle count predict)
 * `CW2.py`: Case-2 analysis (Good/Bad bay predict)
 * `CW1.ipynb`: Case-1 jupter notebook (include of data visualization)
