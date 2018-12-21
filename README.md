@@ -23,4 +23,4 @@ In the second case, the Accuracy/Precision/Recall/F-score is on testing data of 
 
 Based on the result, we find the recycle is the key feature of label. And in the previous life of CW, Route-A is singificant worse of all route. Then we go 2nd analysis, we find the step-1 eqp_id of clean process is the key feature of label. After discuess with CW sponsor, we decide to limit the recycle count and inhibition clean tool of Route-A. The second import factor is  SP recipe which  impact CW fail rate. CW sponsor had been co-work with metrology engineer to fine ture recipe.
 
-### For security issues, I don't provide orignal data online. It focus on methodology here.
+#### For security issues, I don't provide orignal data online. It focus on methodology here.
