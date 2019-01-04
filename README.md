@@ -1,5 +1,6 @@
 # Using machine learning to estimate fail pattern in semiconductor control wafer.
 
+
 The control wafer(CW) is a important subject of the cost in the semiconductor. Over the years, reclaim wafer (recycle of the CW) has been replace the new wafer for cost reduction. But there are many factor that affect the recycle successful rate. Engineers spend a lot of time to analy failure reasons. This study proposes the application of machine learning for CW recycle fail factor classification. Used EDA, statistical tools, machine learning modeling algorithms and model performance tools for creating a backend model to estimate control wafer fail pattern.
 
 ## Data Description
